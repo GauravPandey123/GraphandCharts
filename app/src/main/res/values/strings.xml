@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChariotTask</string>
+    <string name="select">Click Here !</string>
+    <string name="dashBoard">Dashboard</string>
+    <string name="hint_text">Enter your analytics type Map/Chart</string>
+    <string name="chart_typr">ChartType</string>
+    <string name="ChooseYourAnalytics">Choose Your Analytics</string>
+    <string name="submit">Submit</string>
+    <string name="select_chart_type">Please Select Type</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="linechart">LineChart</string>
+    <string name="barchart">Bar Chart</string>
+    <string name="horizontalchart">Horizontal Chart</string>
+    <string name="piechart">Pie Chart</string>
+    <string name="noanalytics">Sorry No Analytics Found If you want show analytics click on plus and add your analytics</string>
+</resources>
